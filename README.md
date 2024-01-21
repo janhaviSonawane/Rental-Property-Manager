@@ -1,5 +1,5 @@
-## rental-property-management-system
-A rental property management system that allows users to add/remove, search, or manage properties depending on their permission level. It supports functionality for 3 different user types: Manager, Landlord, and Renter.
+## Rental-Property-Management-system
+A Rental Property Management System that allows users to add/remove, search, or manage properties depending on their permission level. It supports functionality for 3 different user types: Manager, Landlord, and Renter.
 
 ## Setting Up the MySQL Database
 1. Log in to the MySQL server through the command prompt using the credentials for the "root" user.
@@ -13,7 +13,7 @@ mysql> SOURCE <PathOfSQLFile>;
 ## Installation
 1. Clone the repository from github using the following command:
 ```
-git clone https://github.com/g-sohi/rental-property-management-system.git
+git clone https://github.com/janhaviSonawane/Rental-Property-Manager.git
 ```
 
 ## How to Run:
@@ -45,23 +45,23 @@ Please enter the password to your MySQL Server.
 ## Login
 The user can log in as a Manager using:
 ```
-Username: Robin
-Password: ensf480
+Username: jan
+Password: 123
 ```
 
 The user can log in as a Landlord using:
 ```
-Username: David
-Password: ensf480
+Username: manjiri
+Password: 123
 ```
 
 The user can log in as a Renter using:
 ```
-Username: Sam
-Password: ensf480
+Username: john
+Password: 123
 ```
 
-## Demonstration
+##Demonstration
 ### Login Page
 ![LoginView](Login.gif)
 
